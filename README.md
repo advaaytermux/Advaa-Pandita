@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @advaaytermux
+- 👋 Hi, I’m @advaay
 - 👀 I’m interested in Coding and gaming
 - 🌱 I’m currently learning Coding :)
 - ⚡ Fun fact: I am a nooby :)
